@@ -1,5 +1,3 @@
-package by.bntu.fitr.poisit.task.model.test;
-
 import by.bntu.fitr.poisit.task.model.entity.*;
 import by.bntu.fitr.poisit.task.model.logic.LogicTotalPassengerCapacity;
 import org.junit.Assert;

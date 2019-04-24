@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19db94b3-3e2b-48a1-96ce-7260ee168233" name="Default Changelist" comment="" />
+    <list default="true" id="19db94b3-3e2b-48a1-96ce-7260ee168233" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task05/META-INF/task05.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task05/by/bntu/fitr/poisit/task/Logic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task05/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task05/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task05/by/bntu/fitr/poisit/task/model/test/LogicTotalPassengerCapacityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task05/by/bntu/fitr/poisit/task/model/test/LogicTotalPassengerCapacityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicTotalPassengerCapacityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicTotalPassengerCapacityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/task05.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,25 +21,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/Airline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="272">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/Capacity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/logic/LogicCarryingCapacityOfAllPlane.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/CargoPlane.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="255">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,6 +76,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,15 +95,15 @@
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/logic/LogicTotalPassengerCapacityTest.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/logic/LogicCarryingCapacityOfAllPlane.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/logic/LogicCarryingCapacityOfAllPlaneTest.java" />
-        <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.java" />
         <option value="$PROJECT_DIR$/src/test/LogicCarryingCapacityOfAllPlaneTest.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/test/LogicCarryingCapacityOfAllPlaneTest.java" />
         <option value="$PROJECT_DIR$/src/test/LogicTotalPassengerCapacityTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicTotalPassengerCapacityTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -80,37 +117,37 @@
         <subPane>
           <expand>
             <path>
-              <item name="task05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="oop-task05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-task05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="task05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="oop-task05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-task05" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="task05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="oop-task05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-task05" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="task05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="oop-task05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-task05" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="task05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="oop-task05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-task05" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="logic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="task05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="oop-task05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop-task05" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -124,17 +161,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -160,7 +199,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LogicCarryingCapacityOfAllPlaneTest.getTotalCarryingCapacityOfAllPlane">
+  <component name="RunManager" selected="JUnit.LogicTotalPassengerCapacityTest.getTotalPassengerCapacity (1)">
+    <configuration name="LogicCarryingCapacityOfAllPlaneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bntu.fitr.poisit.task.model.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="by.bntu.fitr.poisit.task.model.test.LogicCarryingCapacityOfAllPlaneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LogicCarryingCapacityOfAllPlaneTest.getTotalCarryingCapacityOfAllPlane" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task05" />
       <extension name="coverage">
@@ -192,6 +246,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LogicTotalPassengerCapacityTest.getTotalPassengerCapacity (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogicTotalPassengerCapacityTest" />
+      <option name="METHOD_NAME" value="getTotalPassengerCapacity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LogicTotalPassengerCapacityTest.getTotalPassengerCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task05" />
       <extension name="coverage">
@@ -210,6 +274,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LogicTotalPassengerCapacityTest.getTotalPassengerCapacity (1)" />
+        <item itemvalue="JUnit.LogicCarryingCapacityOfAllPlaneTest" />
         <item itemvalue="JUnit.LogicCarryingCapacityOfAllPlaneTest.getTotalCarryingCapacityOfAllPlane" />
         <item itemvalue="JUnit.LogicTotalPassengerCapacityTest.getTotalPassengerCapacity" />
         <item itemvalue="JUnit.LogicTotalPassengerCapacityTest" />
@@ -229,16 +295,13 @@
       <workItem from="1554887665356" duration="5914000" />
       <workItem from="1555167427634" duration="30000" />
       <workItem from="1555444132434" duration="861000" />
+      <workItem from="1555927884664" duration="336000" />
+      <workItem from="1556042759002" duration="23000" />
+      <workItem from="1556106680918" duration="461000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LogicCarryingCapacityOfAllPlaneTest_getTotalCarryingCapacityOfAllPlane - 2019.04.10 at 13h 30m 14s.xml">
-      <configuration name="LogicCarryingCapacityOfAllPlaneTest.getTotalCarryingCapacityOfAllPlane" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LogicTotalPassengerCapacityTest_getTotalPassengerCapacity - 2019.04.10 at 13h 30m 35s.xml">
-      <configuration name="LogicTotalPassengerCapacityTest.getTotalPassengerCapacity" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LogicCarryingCapacityOfAllPlaneTest_getTotalCarryingCapacityOfAllPlane - 2019.04.10 at 13h 30m 56s.xml">
       <configuration name="LogicCarryingCapacityOfAllPlaneTest.getTotalCarryingCapacityOfAllPlane" configurationId="JUnit" />
     </history-entry>
@@ -263,12 +326,18 @@
     <history-entry file="LogicCarryingCapacityOfAllPlaneTest_getTotalCarryingCapacityOfAllPlane - 2019.04.10 at 13h 40m 58s.xml">
       <configuration name="LogicCarryingCapacityOfAllPlaneTest.getTotalCarryingCapacityOfAllPlane" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LogicCarryingCapacityOfAllPlaneTest - 2019.04.22 at 13h 12m 51s.xml">
+      <configuration name="LogicCarryingCapacityOfAllPlaneTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogicTotalPassengerCapacityTest_getTotalPassengerCapacity_(1) - 2019.04.24 at 14h 51m 49s.xml">
+      <configuration name="LogicTotalPassengerCapacityTest.getTotalPassengerCapacity (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6805000" />
+    <option name="totallyTimeSpent" value="7625000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="676" y="0" width="697" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -276,11 +345,11 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20272315" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17268446" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32850242" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
@@ -307,31 +376,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/Logic.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/Capacity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/CargoPlane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/MilitaryPlane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -362,17 +406,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/Airline.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/logic/LogicCarryingCapacityOfAllPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicTotalPassengerCapacityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -381,15 +425,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/test/LogicCarryingCapacityOfAllPlaneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/logic/LogicCarryingCapacityOfAllPlane.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/Airline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/Capacity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/task/model/entity/CargoPlane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -443,10 +518,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>task05</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
